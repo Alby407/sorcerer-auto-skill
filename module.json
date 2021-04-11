@@ -1,0 +1,10 @@
+{
+    "name": "sorcerer-auto-skill",
+    "author": "alby407",
+    "description": "Auto skill Ice Lances.",
+    "version": "104.0",
+    "servers": [
+        "https://raw.githubusercontent.com/alby407/sorcerer-auto-skill/main/"
+    ],
+    "disableAutoUpdate": false
+}
